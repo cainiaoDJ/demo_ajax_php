@@ -1,2 +1,3 @@
 # demo_ajax_php
-ajax和PHP交互教程demo
+本教程用来学习ajax的工作原理
+需要放在web server的workspace下
